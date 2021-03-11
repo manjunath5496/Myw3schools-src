@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>MyW3Schools Home Page</title>
+  <link>http://www.myw3schools.com</link>
+  <description>MyW3schools.com is the internet's best source for free eBook downloads.</description>
+  <item>
+    <title>Formulas</title>
+    <link>http://www.static.myw3schools.com/formulas.php</link>
+    <description>Explore Fundamental Science Formulas for Free: anywhere, anytime!</description>
+  </item>
+  <item>
+    <title>Books</title>
+    <link>http://www.static.myw3schools.com/books.php</link>
+    <description>Explore Books for Free: anywhere, anytime!</description>
+  </item>
+  
+    <item>
+    <title>Blog</title>
+    <link>http://www.static.myw3schools.com/blog.php</link>
+    <description>Explore Blog Articles for Free: anywhere, anytime!</description>
+  </item>
+  
+  
+ <item>
+    <title>Source Codes</title>
+    <link>http://www.static.myw3schools.com/src.php</link>
+    <description>Explore Source Codes for Free: anywhere, anytime!</description>
+  </item>
+  
+  
+    
+ <item>
+    <title>Data Science</title>
+    <link>http://www.static.myw3schools.com/data_science.php</link>
+    <description>Explore The Future of Artificial Intelligence for Free: anywhere, anytime!</description>
+  </item>
+  
+  
+   <item>
+    <title>Study Materials</title>
+    <link>http://www.static.myw3schools.com/study_material.php</link>
+    <description>Explore Study Materials for Free: anywhere, anytime!</description>
+  </item>
+  
+  
+    <item>
+    <title>Tutorials</title>
+    <link>http://www.static.myw3schools.com/tutorials.php</link>
+    <description>Explore Tutorials for Free: anywhere, anytime!</description>
+  </item>
+  
+      <item>
+    <title>Jewish Virtual Library</title>
+    <link>http://www.static.myw3schools.com/jewish_virtual_library.php</link>
+    <description>Explore Anything you need to know from Anti-Semitism to Zionism for Free: anywhere, anytime!</description>
+  </item>
+  
+  
+<item>
+    <title>Artificial Intelligence</title>
+    <link>http://www.static.myw3schools.com/ai.php</link>
+    <description>Explore AI for Free: anywhere, anytime!</description>
+  </item>
+  
+  <item>
+    <title>The Turing Digital Archive</title>
+    <link>http://www.static.myw3schools.com/turing_archive.php</link>
+    <description>Explore the letters and manuscripts of one of the founding fathers of computer science, AM Turing.</description>
+  </item>
+  
+    <item>
+    <title>GitHub</title>
+    <link>http://www.static.myw3schools.com/github.php</link>
+    <description>Explore Github to find interesting repos.</description>
+  </item>
+</channel>
+
+</rss>
